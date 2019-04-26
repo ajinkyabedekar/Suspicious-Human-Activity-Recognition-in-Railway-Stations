@@ -1,0 +1,1 @@
+./darknet detector train ~/capstone/darknet.data ~/capstone/darknet-yolov3.cfg ./darknet53.conv.74 > ~/capstone/train.log

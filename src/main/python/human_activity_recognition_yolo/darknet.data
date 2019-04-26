@@ -1,0 +1,5 @@
+classes = 10
+train  = ../Capstone_Project_1/src/main/python/har_train.txt
+valid  = ../Capstone_Project_1/src/main/python/har_test.txt
+names = ../Capstone_Project_1/src/main/python/classes.names
+backup = ../Capstone_Project_1/src/main/python/weights/
